@@ -31,10 +31,4 @@ Herramienta de escritorio para calcular el costo exacto de craftear armaduras en
 
 ---
 
-## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristhian-medina-dev&show_icons=true&theme=dark)
-
----
-
 *Siempre aprendiendo, siempre construyendo.* 💪
