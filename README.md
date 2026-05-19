@@ -14,6 +14,12 @@ Soy un desarrollador autodidacta de Corrientes, Argentina, aprendiendo programac
 
 ---
 
+## 🎓 Educación
+
+- Introducción a la Programación — **EducaciónIT**
+
+---
+
 ## 🛠️ Tecnologías que estoy aprendiendo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
